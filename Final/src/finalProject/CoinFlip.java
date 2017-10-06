@@ -23,6 +23,7 @@ public class CoinFlip {
 			}
 			if("Tails".equalsIgnoreCase(user)) {
 				JOptionPane.showMessageDialog(null,"You picked Tails. You win");
+			//Guess.main(args);	
 			}
 		}	
 		}
