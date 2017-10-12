@@ -1,11 +1,25 @@
 package finalProject;
-import java.util.Random;
-import javax.swing.JOptionPane;
-public class BlackJack {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//some random comment
+
+public class BlackJack { 
+	
+public static void main(String[]args) {
+	
+	private int rank;
+	private int suit;
+	private int value;
+	
+	private static String[] = {"Joker", "Ace", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King"};
+	
+	
+		
+		
+	
 	}
+	
+		
+	
 
-}
+	
+
+	}
