@@ -12,7 +12,6 @@ public class Bingo {
 		createCard();
 		int first = 0;
 		String user;
-	
 			 
 	
 				
